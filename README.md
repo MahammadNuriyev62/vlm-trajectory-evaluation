@@ -32,7 +32,7 @@ Clearly, this 2B model is too small and hence sensitive to the exact wording of 
 
 More examples can be found in the [notebook](./vl-reranker.ipynb).
 
-The format was inspired by this [paper](https://arxiv.org/abs/2211.13227) which also rendered trajectories on images, except that everything was on a single image and fed to a VLM, prompted to choose the safest trajectory.
+The format was inspired by this https://arxiv.org/abs/2211.13227 which also rendered trajectories on images, except that everything was on a single image and fed to a VLM, prompted to choose the safest trajectory.
 
 
 ## Bonus
